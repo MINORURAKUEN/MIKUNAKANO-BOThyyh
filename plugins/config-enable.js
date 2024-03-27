@@ -1,5 +1,5 @@
 const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, isROwner}) => {
-  const optionsFull = `╭✨️⸽⃕SᴀᴋᴜʀᴀBᴏᴛLɪᴛᴇ-MD🍁⃨፝⃕✰
+  const optionsFull = `╭✨️⸽⃕┋✿Miku Nakano-Bot🍁⃨፝⃕✰
 ┣☆ ඬ⃟⚓️ !enable welcome
 ┣☆ ඬ⃟⚓️ !disable welcome
 ┣☆ ඬ⃟🌐 !enable public

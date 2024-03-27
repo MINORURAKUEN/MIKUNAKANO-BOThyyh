@@ -93,7 +93,7 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
-global.gt = 'MikuBot;
+global.gt = 'MikuBot';
 global.mysticbot = 'MikuBot';
 global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
 global.nomorown = '573012482694';

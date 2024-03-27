@@ -42,11 +42,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *✦ Info NPM ✦* 
 ╭─ - ✦⢄⢁✩*⢄⢁✧ ----- ✦ -----✦ --- 
 │╭─────────────────
-││🌸 *Nombre:* SakuraBotLite
+││🌸 *Nombre:* ┋✿Miku Nakano-Bot
 ││📇 *Description:* Bot - JavaScript
 ││🐢 *Versión:* ${vs}
 ││🌹 *Main:* index.js
-││🌦 *Creador:* あ ᴅɪᴇɢᴏ あ
+││🌦 *Creador:* あ Luis あ
 │╰─────────────────
 ╰─ - ✦⢄⢁✩*⢄⢁✧ ----- ✦ -----✦ ---
 

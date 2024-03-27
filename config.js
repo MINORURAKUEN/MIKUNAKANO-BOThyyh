@@ -13,19 +13,19 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
- ['573012482597', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
- ['5217294888993', '𝗢𝘄𝗻𝗲𝗿 📖', true],
- ['5492266613038'],
- ['51935499065'],
- ['5215610314499'],
- ['51902050745']]
+ ['51902050745', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚡️', true],
+ ['521729888993', '𝗢𝘄𝗻𝗲𝗿 📖', true],
+ ['54966613038'],
+ ['519359065'],
+ ['52156314499'],
+ ['519050745']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573012482597", '𝗗𝗶𝗲𝗴𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ⚡️', 1],
-["5217294888993", '𝗢𝘄𝗻𝗲𝗿 📖', 1],
-["5492266613038", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
-["573106909511", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
+["51902050745", 'Luis 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ⚡️', 1],
+["52172988993", '𝗢𝘄𝗻𝗲𝗿 📖', 1],
+["54926613038", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
+["5731009511", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
 
 
 global.suittag = ['573012482597'];
@@ -34,13 +34,13 @@ global.prems = ['573218138672'];
 global.lenguajeSK = es //idioma de sakurabot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌸';
-global.author = '𝖣𝗂𝖾𝗀𝗈 🌩';
-global.wm = 'Sakura : Bot 🌹';
-global.sk = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
-global.titulowm = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍';
-global.titulowm2 = `𝘿𝙞𝙚𝙜𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
-global.igfg = 'Diego Oficial';
+global.packname = '┋✿Miku Nakano-Bot🌸';
+global.author = 'Luis 🌩';
+global.wm = 'Miku : Bot 🌹';
+global.sk = 'Miku : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
+global.titulowm = 'Miku : 𝗕𝗈𝗍';
+global.titulowm2 = `Luis 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
+global.igfg = 'Luis Oficial';
 global.vs = '1.0.7';
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
@@ -60,21 +60,21 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9' //Grupo Oficial De SakuraBot
+global.gp1 = 'https://chat.whatsapp.com/DAV3qY4WFTsDhexckMwbp8' //Grupo Oficial De ┋✿Miku Nakano-Bot
 
-global.gp2 = 'https://chat.whatsapp.com/KITv2RmsFg75Vl3t5iuEfM' //Grupo SakuraBotLite Test 
+global.gp2 = 'https://chat.whatsapp.com/KITv2Rmg75Vl3t5iuEfM' //Grupo
 
-global.gp3 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //CuriosityBot Y SakuraBot
+global.gp3 = 'https://chat.whatsapp.com/JNdlCEUKLqH87sOqfKmO' //CuriosityBot Y SakuraBot
 
-global.gp4 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //NovaBot Y SakuraBot
+global.gp4 = 'https://chat.whatsapp.com/tOAq2RnBx687WhQpOYK8' //NovaBot Y SakuraBo
 
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
+global.channel = 'https://whatsapp.com/channel029VaQD7LAJP216tu9liI2A' //Canal Oficial
 
-global.yt = 'https://www.youtube.com/@SakuraBotLite' //Canal De Youtube
+global.yt = 'https://www.youtube.com/@kuraBotLite' //Canal De Youtube
 
-global.md = 'https://github.com/diegojadibot/SakuraBotLite-MD' //Github Oficial
+global.md = 'https://github.com/diegojadot/SakuraBotLite-MD' //Github Oficial
 
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
+global.fb = 'https://www.facebook.com/dgosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶 𝑹𝑷𝑮◞ • ⚔
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
@@ -93,8 +93,8 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
-global.gt = 'SakuraBot';
-global.mysticbot = 'SakuraBot';
+global.gt = 'MikuBot;
+global.mysticbot = 'MikuBot';
 global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
 global.nomorown = '573012482694';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];

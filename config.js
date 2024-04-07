@@ -34,7 +34,7 @@ global.prems = ['573218138672'];
 global.lenguajeSK = es //idioma de sakurabot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '┋✿Miku Nakano-Bot🌸';
+global.packname = '┋✿Roshidere-MD🌸';
 global.author = 'Luis 🌩';
 global.wm = 'Miku : Bot 🌹';
 global.sk = 'Miku : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
